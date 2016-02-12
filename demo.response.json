@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "nama" : "Ulumuddin",
+        "description" : "Ucay's first name"
+    },
+    {
+        "id" : 2,
+        "nama" : "Cahyadi",
+        "description" : "Ucay's middle name"
+    },
+    {
+        "id" : 3,
+        "nama" : "Yunus",
+        "description" : "Ucay's last name"
+    },
+    {
+        "id" : 4,
+        "nama" : "Ucay",
+        "description" : "This is my nickname"
+    }
+]
